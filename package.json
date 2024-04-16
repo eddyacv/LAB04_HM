@@ -1,0 +1,26 @@
+{
+  "name": "lab04_hm",
+  "version": "1.0.0",
+  "description": "Mi laboratorio desde casa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddyacv/LAB04_HM.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Dylan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddyacv/LAB04_HM/issues"
+  },
+  "homepage": "https://github.com/eddyacv/LAB04_HM#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
